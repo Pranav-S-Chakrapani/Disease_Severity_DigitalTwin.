@@ -1,0 +1,6 @@
+{
+  "train_avg_loss": 0.3411,
+  "test_iou_lesion": 0.591429786961781,
+  "test_dice": 0.74326846437993,
+  "test_pixel_acc": 0.8953202178583628
+}
